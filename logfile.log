@@ -145,3 +145,56 @@
 {"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-24T21:47:52.491Z"}
 {"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-24T21:48:38.339Z"}
 {"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-24T21:48:38.353Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T08:49:48.782Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T08:49:48.806Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T08:56:21.521Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T08:56:21.542Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T08:57:17.438Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T08:57:17.461Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T09:06:02.468Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T09:06:02.489Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T09:19:38.899Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T09:19:38.924Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T09:25:43.599Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T09:25:43.628Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T11:16:26.592Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T11:16:26.620Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T11:55:02.431Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T11:55:02.445Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T12:17:05.460Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T12:17:05.475Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T12:22:49.083Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T12:22:49.099Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T12:29:16.453Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T12:29:16.468Z"}
+{"message":"blog is not defined","stack":"ReferenceError: blog is not defined\n    at updateUser (E:\\projects\\grupOdev\\server\\controllers\\userController.js:30:5)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-12-25T12:35:27.049Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T12:36:38.994Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T12:36:39.009Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T12:40:26.527Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T12:40:26.542Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T13:02:33.076Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T13:02:33.094Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T13:03:01.378Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T13:03:01.392Z"}
+{"message":"Cannot read properties of null (reading 'email')","stack":"TypeError: Cannot read properties of null (reading 'email')\n    at sendPasswordEmail (E:\\projects\\grupOdev\\server\\controllers\\mailController.js:29:19)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-12-25T13:03:03.488Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T13:03:21.435Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T13:03:21.449Z"}
+{"message":"Cannot read properties of null (reading 'email')","stack":"TypeError: Cannot read properties of null (reading 'email')\n    at sendPasswordEmail (E:\\projects\\grupOdev\\server\\controllers\\mailController.js:29:19)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-12-25T13:03:32.235Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T13:05:16.317Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T13:05:16.332Z"}
+{"message":"Cannot read properties of null (reading 'email')","stack":"TypeError: Cannot read properties of null (reading 'email')\n    at sendPasswordEmail (E:\\projects\\grupOdev\\server\\controllers\\mailController.js:29:19)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-12-25T13:05:19.187Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T13:07:11.020Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T13:07:11.037Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T13:13:49.704Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T13:13:49.717Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T13:21:28.891Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T13:21:28.904Z"}
+{"message":"data and salt arguments required","stack":"Error: data and salt arguments required\n    at Object.hash (E:\\projects\\grupOdev\\server\\node_modules\\bcrypt\\bcrypt.js:137:17)\n    at E:\\projects\\grupOdev\\server\\node_modules\\bcrypt\\promises.js:29:12\n    at new Promise (<anonymous>)\n    at Object.module.exports.promise (E:\\projects\\grupOdev\\server\\node_modules\\bcrypt\\promises.js:20:12)\n    at Object.hash (E:\\projects\\grupOdev\\server\\node_modules\\bcrypt\\bcrypt.js:133:25)\n    at sendPasswordEmail (E:\\projects\\grupOdev\\server\\controllers\\mailController.js:39:44)","level":"error","timestamp":"2022-12-25T13:21:37.899Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T13:22:32.453Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T13:22:32.467Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T13:24:18.063Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T13:24:18.078Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T13:24:53.060Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T13:24:53.073Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2022-12-25T13:24:59.361Z"}
+{"level":"info","message":"Mongo Db connected.....","timestamp":"2022-12-25T13:24:59.376Z"}
